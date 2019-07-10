@@ -1,0 +1,2 @@
+# smatrix
+Simple Matrix Library
